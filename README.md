@@ -74,12 +74,16 @@ All pages include Year and Country slicers for interactive filtering.
 
 ### Overview
 ![Overview](01_Overview.png)
+
 ### Country Performance
 ![Country Performance](02_Country_Performance.png)
+
 ### Category Performance
 ![Category Performance](03_Category_Performance.png)
+
 ### 2020 Impact
 ![2020 Impact](04_2020_Impact.png)
+
 ### Data Model
 ![Data Model](05_Data_Model.png)
 
